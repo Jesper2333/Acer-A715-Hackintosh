@@ -31,4 +31,10 @@ Acer Aspire 7 A715 黑苹果 (OpenCore引导)
 
 3、触控板只能在PS2模式下使用，在macOS下手势正常（BIOS可进行设置，PS2模式下Windows不能使用触控板手势）
 
+可能遇到的问题
+-
 
+1、进入安装界面后找不到硬盘：进入BIOS，在“Main”栏目下，按下Ctrl+S，BIOS会显示部分隐藏选项，把SATA设置成AHCI模式。
+2、进入系统后无法使用触控板：进入BIOS，在“Main”栏目下，按下Ctrl+S，BIOS会显示部分隐藏选项，把触控版由“I2C”改为“PS2”
+
+（注意⚠️：该操作将会导致在Windows下无法使用触控板手势，macOS下手势正常）
