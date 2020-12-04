@@ -24,7 +24,7 @@ Acer Aspire 7 A715 黑苹果 (OpenCore引导，仅在Big Sur正式版11.0.1进�
 
 **Intel的无线网卡请配合[HeliPort](https://github.com/OpenIntelWireless/HeliPort/releases/download/v1.0.2-alpha/HeliPort.dmg)使用，非常感谢[OpenIntelWireless项目组](https://github.com/OpenIntelWireless)**
 
-已知存在的问题
+已知存在的问题（系统：macOS Big Sur 11.0.1）
 -
 
 1、独显无法驱动（该问题目前全球无解）
