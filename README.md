@@ -22,7 +22,9 @@ Acer Aspire 7 A715 黑苹果 (OpenCore引导)
 
 **注意：该型号只需要关闭CFG Lock，不需要修改DVMT**
 
-已知问题
+**Intel的无线网卡请配合[HeliPort](https://github.com/OpenIntelWireless/HeliPort/releases/download/v1.0.2-alpha/HeliPort.dmg)使用，非常感谢[OpenIntelWireless项目组](https://github.com/OpenIntelWireless)
+
+已知存在的问题
 -
 
 1、独显无法驱动（该问题目前全球无解）
@@ -35,6 +37,9 @@ Acer Aspire 7 A715 黑苹果 (OpenCore引导)
 -
 
 1、进入安装界面后找不到硬盘：进入BIOS，在“Main”栏目下，按下Ctrl+S，BIOS会显示部分隐藏选项，把SATA设置成AHCI模式。
+
 2、进入系统后无法使用触控板：进入BIOS，在“Main”栏目下，按下Ctrl+S，BIOS会显示部分隐藏选项，把触控版由“I2C”改为“PS2”
+
+3、Intel无线网卡不知道怎么用：[请配合HeliPort软件使用，点击下载](https://github.com/OpenIntelWireless/HeliPort/releases/download/v1.0.2-alpha/HeliPort.dmg)
 
 （注意⚠️：该操作将会导致在Windows下无法使用触控板手势，macOS下手势正常）
