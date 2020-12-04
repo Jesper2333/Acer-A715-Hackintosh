@@ -1,5 +1,5 @@
 # Acer-A715-Hackintosh
-Acer Aspire 7 A715 黑苹果 (OpenCore引导) 
+Acer Aspire 7 A715 黑苹果 (OpenCore引导，仅在Big Sur正式版11.0.1进行测试) 
  
 具体型号：Acer Aspire 7 A715-75G-55XU
 
@@ -32,6 +32,8 @@ Acer Aspire 7 A715 黑苹果 (OpenCore引导)
 2、HDMI无法使用（因为独显无法驱动，该问题无解）
 
 3、触控板只能在PS2模式下使用，在macOS下手势正常（BIOS可进行设置，PS2模式下Windows不能使用触控板手势）
+
+4、耳机接口没反应
 
 可能遇到的问题
 -
