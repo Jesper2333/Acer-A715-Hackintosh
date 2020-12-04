@@ -22,7 +22,7 @@ Acer Aspire 7 A715 黑苹果 (OpenCore引导)
 
 **注意：该型号只需要关闭CFG Lock，不需要修改DVMT**
 
-**Intel的无线网卡请配合[HeliPort](https://github.com/OpenIntelWireless/HeliPort/releases/download/v1.0.2-alpha/HeliPort.dmg)使用，非常感谢[OpenIntelWireless项目组](https://github.com/OpenIntelWireless)
+**Intel的无线网卡请配合[HeliPort](https://github.com/OpenIntelWireless/HeliPort/releases/download/v1.0.2-alpha/HeliPort.dmg)使用，非常感谢[OpenIntelWireless项目组](https://github.com/OpenIntelWireless)**
 
 已知存在的问题
 -
