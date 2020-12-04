@@ -30,3 +30,5 @@ Acer Aspire 7 A715 黑苹果 (OpenCore引导)
 2、HDMI无法使用（因为独显无法驱动，该问题无解）
 
 3、触控板只能在PS2模式下使用，在macOS下手势正常（BIOS可进行设置，PS2模式下Windows不能使用触控板手势）
+
+
