@@ -40,6 +40,8 @@ Acer Aspire 7 A715 黑苹果 (OpenCore引导)
 
 2、进入系统后无法使用触控板：进入BIOS，在“Main”栏目下，按下Ctrl+S，BIOS会显示部分隐藏选项，把触控版由“I2C”改为“PS2”
 
+（注意⚠️：该操作将会导致在Windows下无法使用触控板手势，macOS下手势正常）
+
 3、Intel无线网卡不知道怎么用：[请配合HeliPort软件使用，点击下载](https://github.com/OpenIntelWireless/HeliPort/releases/download/v1.0.2-alpha/HeliPort.dmg)
 
-（注意⚠️：该操作将会导致在Windows下无法使用触控板手势，macOS下手势正常）
+
