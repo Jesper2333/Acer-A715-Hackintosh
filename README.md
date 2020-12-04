@@ -44,4 +44,12 @@ Acer Aspire 7 A715 黑苹果 (OpenCore引导)
 
 3、Intel无线网卡不知道怎么用：[请配合HeliPort软件使用，点击下载](https://github.com/OpenIntelWireless/HeliPort/releases/download/v1.0.2-alpha/HeliPort.dmg)
 
+运行效果图
+-
+![1](https://github.com/Jesper2333/Acer-A715-Hackintosh/blob/main/p1.png)
+
+![2](https://github.com/Jesper2333/Acer-A715-Hackintosh/blob/main/p2.png)
+
+![3](https://github.com/Jesper2333/Acer-A715-Hackintosh/blob/main/p3.png)
+
 
